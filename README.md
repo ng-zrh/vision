@@ -8,5 +8,5 @@ This document is open for participation and changes should always be handled wit
 - The Angular Meetup Zurich group is a non-commercial and non-profit organisation whose main goal is to provide educational events
 - We are focusing on the Angular.js Framework from Google and our topics should always include this topic to a certain extent
 - We are completely open and therefore all our discussion, decisions as well as our planning is publicly available
-- We always aim from consensus within the group
+- We always aim for consensus within the group
 - The group is always open for new members
